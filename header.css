@@ -1,0 +1,31 @@
+.navbar .nav-links .nav-link {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 4px;
+    color: black;
+    background: #fcc8b2;
+    border: #000000 solid 2px;
+    border-radius: 5px;
+  }
+  body {
+    font-family:  Verdana, sans-serif;
+    background: #BCF8EC;
+
+  }
+  .navbar {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  
+ 

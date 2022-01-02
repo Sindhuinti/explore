@@ -1,0 +1,19 @@
+body{
+    background-color:#BCF8EC;
+    color: black;
+    font-family:  Verdana, sans-serif;
+}
+table,td,tr{
+    background:#fcc8b2;
+    border: #000000 solid 1.5px;
+}
+table,tr{
+    border-radius: 10px;
+}
+button,.cancel{
+    background-color:#BCF8EC;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    font-family:  Verdana, sans-serif;
+}

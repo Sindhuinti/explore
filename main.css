@@ -1,0 +1,29 @@
+.row {
+    display: table;
+    width: 100%; /*Optional*/
+    table-layout: fixed; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+}
+.coloumn {
+    display: table-cell;
+  
+}
+body{
+    background-color:#BCF8EC;
+    font-family:  Verdana, sans-serif;
+    
+}
+label{
+    font-size: large;
+    font-weight: bold;
+    background-color: #fcc8b2;
+    padding: 10px;
+    border-radius: 5px;
+    border: #000000 solid 2px;
+}
+img{
+    border: #000000 solid 2px;
+}
+.logo{
+    border: none;
+}
